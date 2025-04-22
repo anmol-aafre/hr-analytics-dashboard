@@ -15,6 +15,6 @@ This project provides a comprehensive overview of an organization’s human reso
 - **Age & Salary Scatter Plot**: Correlates age with salary and job role.
 
 🖼️ Dashboards
-dashboard 1.png: Dashboard filtered by [Gender:Male, Status:Hired, Location:HQ].
-dashboard 2.png: Overall HR analytics dashboard showing all metrics unfiltered. 
-dashboard 3.png: Dashboard filtered by [Gender: Female].
+- **dashboard 1.png**: Dashboard filtered by [Gender:Male, Status:Hired, Location:HQ].
+- **dashboard 2.png**: Overall HR analytics dashboard showing all metrics unfiltered. 
+- **dashboard 3.png**: Dashboard filtered by [Gender: Female].
